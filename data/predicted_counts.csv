@@ -1,0 +1,783 @@
+max,count,cell_type,plate_name,well,sm_name
+293.0515,54.0,B cells,plate_1,B4,5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine
+286.7465,118.0,B cells,plate_2,B4,5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine
+297.2795,68.0,B cells,plate_3,B4,5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine
+289.6435,126.0,B cells,plate_0,G11,ABT-199 (GDC-0199)
+298.715,57.0,B cells,plate_4,G11,ABT-199 (GDC-0199)
+292.18,68.0,B cells,plate_5,G11,ABT-199 (GDC-0199)
+292.592,126.0,B cells,plate_0,C6,ABT737
+311.8595,57.0,B cells,plate_4,C6,ABT737
+283.636,68.0,B cells,plate_5,C6,ABT737
+285.3175,54.0,B cells,plate_1,E4,AMD-070 (hydrochloride)
+293.6025,118.0,B cells,plate_2,E4,AMD-070 (hydrochloride)
+303.46,68.0,B cells,plate_3,E4,AMD-070 (hydrochloride)
+301.572,126.0,B cells,plate_0,B7,AT 7867
+308.976,57.0,B cells,plate_4,B7,AT 7867
+286.1005,68.0,B cells,plate_5,B7,AT 7867
+293.4595,54.0,B cells,plate_1,F4,AT13387
+295.734,118.0,B cells,plate_2,F4,AT13387
+309.824,68.0,B cells,plate_3,F4,AT13387
+284.612,54.0,B cells,plate_1,D8,AVL-292
+288.5325,118.0,B cells,plate_2,D8,AVL-292
+301.213,68.0,B cells,plate_3,D8,AVL-292
+283.213,126.0,B cells,plate_0,C8,AZ628
+309.0915,57.0,B cells,plate_4,C8,AZ628
+286.8045,68.0,B cells,plate_5,C8,AZ628
+288.0135,126.0,B cells,plate_0,C9,AZD-8330
+312.3375,74.0,B cells,plate_4,C9,AZD-8330
+297.4065,80.0,B cells,plate_5,C9,AZD-8330
+297.394,126.0,B cells,plate_0,A8,AZD3514
+311.3295,57.0,B cells,plate_4,A8,AZD3514
+292.7,68.0,B cells,plate_5,A8,AZD3514
+285.323,126.0,B cells,plate_0,G8,AZD4547
+300.417,57.0,B cells,plate_4,G8,AZD4547
+291.2385,68.0,B cells,plate_5,G8,AZD4547
+303.8745,54.0,B cells,plate_1,H5,Alogliptin
+291.152,118.0,B cells,plate_2,H5,Alogliptin
+297.085,68.0,B cells,plate_3,H5,Alogliptin
+218.552,18.0,B cells,plate_3,G10,Alvocidib
+287.9185,54.0,B cells,plate_1,G8,Amiodarone
+290.0615,118.0,B cells,plate_2,G8,Amiodarone
+292.26,68.0,B cells,plate_3,G8,Amiodarone
+290.5305,54.0,B cells,plate_1,A4,Atorvastatin
+295.3225,118.0,B cells,plate_2,A4,Atorvastatin
+302.121,68.0,B cells,plate_3,A4,Atorvastatin
+288.6595,126.0,B cells,plate_0,B4,Azacitidine
+309.282,57.0,B cells,plate_4,B4,Azacitidine
+287.0945,68.0,B cells,plate_5,B4,Azacitidine
+288.8355,54.0,B cells,plate_1,E9,BAY 61-3606
+300.6345,118.0,B cells,plate_2,E9,BAY 61-3606
+271.5755,68.0,B cells,plate_3,E9,BAY 61-3606
+302.097,54.0,B cells,plate_1,C5,BAY 87-2243
+297.871,118.0,B cells,plate_2,C5,BAY 87-2243
+284.3035,68.0,B cells,plate_3,C5,BAY 87-2243
+297.19,126.0,B cells,plate_0,A7,BI-D1870
+316.9605,57.0,B cells,plate_4,A7,BI-D1870
+297.319,68.0,B cells,plate_5,A7,BI-D1870
+288.408,53.0,B cells,plate_1,D4,BMS-265246
+292.383,111.0,B cells,plate_2,D4,BMS-265246
+303.02,65.0,B cells,plate_3,D4,BMS-265246
+277.9555,54.0,B cells,plate_1,C10,BMS-387032
+314.527,118.0,B cells,plate_2,C10,BMS-387032
+291.5925,68.0,B cells,plate_3,C10,BMS-387032
+295.3055,54.0,B cells,plate_1,G6,BMS-536924
+294.854,118.0,B cells,plate_2,G6,BMS-536924
+304.6615,68.0,B cells,plate_3,G6,BMS-536924
+289.1125,54.0,B cells,plate_1,C8,BMS-777607
+290.267,118.0,B cells,plate_2,C8,BMS-777607
+303.0875,68.0,B cells,plate_3,C8,BMS-777607
+298.0895,123.0,B cells,plate_0,G5,BX 912
+311.2,59.0,B cells,plate_4,G5,BX 912
+296.4015,67.0,B cells,plate_5,G5,BX 912
+292.32,126.0,B cells,plate_0,E12,Bosutinib
+307.83,57.0,B cells,plate_4,E12,Bosutinib
+289.4765,68.0,B cells,plate_5,E12,Bosutinib
+292.635,126.0,B cells,plate_0,E6,Buspirone
+315.7055,57.0,B cells,plate_4,E6,Buspirone
+287.708,68.0,B cells,plate_5,E6,Buspirone
+286.9865,126.0,B cells,plate_0,B10,CC-401
+302.5415,57.0,B cells,plate_4,B10,CC-401
+297.984,68.0,B cells,plate_5,B10,CC-401
+303.007,136.0,B cells,plate_0,D11,CEP-18770 (Delanzomib)
+304.9735,77.0,B cells,plate_4,D11,CEP-18770 (Delanzomib)
+283.467,123.0,B cells,plate_5,D11,CEP-18770 (Delanzomib)
+296.5945,126.0,B cells,plate_0,E8,CEP-37440
+312.6385,57.0,B cells,plate_4,E8,CEP-37440
+291.879,68.0,B cells,plate_5,E8,CEP-37440
+310.7495,150.0,B cells,plate_0,D4,CGM-097
+310.92,55.0,B cells,plate_4,D4,CGM-097
+292.771,65.0,B cells,plate_5,D4,CGM-097
+275.674,54.0,B cells,plate_1,B10,CGP 60474
+295.3555,118.0,B cells,plate_2,B10,CGP 60474
+371.1345,68.0,B cells,plate_3,B10,CGP 60474
+288.962,126.0,B cells,plate_0,A12,Cabozantinib
+311.7155,57.0,B cells,plate_4,A12,Cabozantinib
+294.779,68.0,B cells,plate_5,A12,Cabozantinib
+290.086,54.0,B cells,plate_1,H11,Canertinib
+295.329,118.0,B cells,plate_2,H11,Canertinib
+303.339,68.0,B cells,plate_3,H11,Canertinib
+292.757,126.0,B cells,plate_0,D12,Ceritinib
+314.0075,57.0,B cells,plate_4,D12,Ceritinib
+290.431,68.0,B cells,plate_5,D12,Ceritinib
+292.632,54.0,B cells,plate_1,E7,Chlorpheniramine
+293.241,118.0,B cells,plate_2,E7,Chlorpheniramine
+302.826,68.0,B cells,plate_3,E7,Chlorpheniramine
+299.3855,126.0,B cells,plate_0,E4,Clemastine
+315.456,57.0,B cells,plate_4,E4,Clemastine
+287.7815,68.0,B cells,plate_5,E4,Clemastine
+277.825,54.0,B cells,plate_1,A6,Clomipramine
+298.578,118.0,B cells,plate_2,A6,Clomipramine
+304.332,68.0,B cells,plate_3,A6,Clomipramine
+291.872,125.0,B cells,plate_0,H12,Clotrimazole
+295.6695,57.0,B cells,plate_4,H12,Clotrimazole
+294.1065,69.0,B cells,plate_5,H12,Clotrimazole
+225.2925,75.0,B cells,plate_0,G10,Colchicine
+251.239,15.0,B cells,plate_4,G10,Colchicine
+239.4475,18.0,B cells,plate_5,G10,Colchicine
+299.262,126.0,B cells,plate_0,F6,Colforsin
+315.739,57.0,B cells,plate_4,F6,Colforsin
+290.048,68.0,B cells,plate_5,F6,Colforsin
+299.049,54.0,B cells,plate_1,F12,Dasatinib
+287.1495,118.0,B cells,plate_2,F12,Dasatinib
+297.1785,68.0,B cells,plate_3,F12,Dasatinib
+306.0175,126.0,B cells,plate_0,A10,Decitabine
+308.085,57.0,B cells,plate_4,A10,Decitabine
+299.7775,68.0,B cells,plate_5,A10,Decitabine
+291.43,126.0,B cells,plate_0,A6,Defactinib
+309.7585,57.0,B cells,plate_4,A6,Defactinib
+288.199,68.0,B cells,plate_5,A6,Defactinib
+291.3245,54.0,B cells,plate_1,G4,Desloratadine
+289.1455,118.0,B cells,plate_2,G4,Desloratadine
+289.8185,68.0,B cells,plate_3,G4,Desloratadine
+288.144,54.0,B cells,plate_1,G11,Disulfiram
+310.3875,118.0,B cells,plate_2,G11,Disulfiram
+295.3055,68.0,B cells,plate_3,G11,Disulfiram
+296.038,54.0,B cells,plate_1,D7,Dovitinib
+290.7615,118.0,B cells,plate_2,D7,Dovitinib
+296.977,68.0,B cells,plate_3,D7,Dovitinib
+289.326,126.0,B cells,plate_0,G6,Doxorubicin
+300.3155,57.0,B cells,plate_4,G6,Doxorubicin
+285.512,68.0,B cells,plate_5,G6,Doxorubicin
+296.2285,54.0,B cells,plate_1,E6,FK 866
+300.769,118.0,B cells,plate_2,E6,FK 866
+293.9995,68.0,B cells,plate_3,E6,FK 866
+304.141,54.0,B cells,plate_1,G12,Flutamide
+314.425,118.0,B cells,plate_2,G12,Flutamide
+301.539,68.0,B cells,plate_3,G12,Flutamide
+299.5335,126.0,B cells,plate_0,H5,GLPG0634
+309.351,57.0,B cells,plate_4,H5,GLPG0634
+285.7975,68.0,B cells,plate_5,H5,GLPG0634
+288.4905,126.0,B cells,plate_0,B9,GO-6976
+310.2025,57.0,B cells,plate_4,B9,GO-6976
+296.779,68.0,B cells,plate_5,B9,GO-6976
+292.2645,126.0,B cells,plate_0,E10,GSK-1070916
+311.4845,57.0,B cells,plate_4,E10,GSK-1070916
+295.2065,68.0,B cells,plate_5,E10,GSK-1070916
+302.275,126.0,B cells,plate_0,E9,GSK256066
+300.1025,57.0,B cells,plate_4,E9,GSK256066
+292.296,68.0,B cells,plate_5,E9,GSK256066
+300.0,54.0,B cells,plate_1,B9,GW843682X
+303.2375,118.0,B cells,plate_2,B9,GW843682X
+307.364,68.0,B cells,plate_3,B9,GW843682X
+277.9155,60.0,B cells,plate_1,A5,Ganetespib (STA-9090)
+279.122,118.0,B cells,plate_2,A5,Ganetespib (STA-9090)
+285.0705,74.0,B cells,plate_3,A5,Ganetespib (STA-9090)
+289.4865,126.0,B cells,plate_0,A9,HMN-214
+310.897,57.0,B cells,plate_4,A9,HMN-214
+289.2005,68.0,B cells,plate_5,A9,HMN-214
+281.694,126.0,B cells,plate_0,H9,HYDROXYUREA
+310.1785,57.0,B cells,plate_4,H9,HYDROXYUREA
+290.519,68.0,B cells,plate_5,H9,HYDROXYUREA
+284.249,54.0,B cells,plate_1,B7,I-BET151
+307.275,118.0,B cells,plate_2,B7,I-BET151
+295.588,68.0,B cells,plate_3,B7,I-BET151
+292.8935,54.0,B cells,plate_1,G7,IKK Inhibitor VII
+296.586,118.0,B cells,plate_2,G7,IKK Inhibitor VII
+298.842,68.0,B cells,plate_3,G7,IKK Inhibitor VII
+285.4965,54.0,B cells,plate_1,H10,IMD-0354
+283.6175,118.0,B cells,plate_2,H10,IMD-0354
+298.225,68.0,B cells,plate_3,H10,IMD-0354
+303.455,61.0,B cells,plate_1,C11,IN1451
+316.8865,128.0,B cells,plate_2,C11,IN1451
+289.774,66.0,B cells,plate_3,C11,IN1451
+290.061,126.0,B cells,plate_0,F4,Imatinib
+306.927,57.0,B cells,plate_4,F4,Imatinib
+298.7615,68.0,B cells,plate_5,F4,Imatinib
+283.8095,54.0,B cells,plate_1,G9,Isoniazid
+294.8915,118.0,B cells,plate_2,G9,Isoniazid
+295.7635,68.0,B cells,plate_3,G9,Isoniazid
+300.459,54.0,B cells,plate_1,B11,Ixabepilone
+308.8395,118.0,B cells,plate_2,B11,Ixabepilone
+293.9385,68.0,B cells,plate_3,B11,Ixabepilone
+297.2625,54.0,B cells,plate_1,C7,K-02288
+295.732,118.0,B cells,plate_2,C7,K-02288
+306.096,68.0,B cells,plate_3,C7,K-02288
+295.0,54.0,B cells,plate_1,F9,Ketoconazole
+294.214,118.0,B cells,plate_2,F9,Ketoconazole
+296.664,68.0,B cells,plate_3,F9,Ketoconazole
+294.0855,53.0,B cells,plate_1,F10,LY2090314
+295.1975,118.0,B cells,plate_2,F10,LY2090314
+297.729,66.0,B cells,plate_3,F10,LY2090314
+291.582,126.0,B cells,plate_0,C12,Lamivudine
+317.995,57.0,B cells,plate_4,C12,Lamivudine
+292.139,68.0,B cells,plate_5,C12,Lamivudine
+295.0285,54.0,B cells,plate_1,A12,Lapatinib
+296.43,118.0,B cells,plate_2,A12,Lapatinib
+303.031,68.0,B cells,plate_3,A12,Lapatinib
+296.994,126.0,B cells,plate_0,D9,MGCD-265
+306.264,57.0,B cells,plate_4,D9,MGCD-265
+280.9185,68.0,B cells,plate_5,D9,MGCD-265
+287.161,64.0,B cells,plate_1,A11,MK-5108
+291.9005,118.0,B cells,plate_2,A11,MK-5108
+298.636,74.0,B cells,plate_3,A11,MK-5108
+349.115,9.0,B cells,plate_4,F7,MLN 2238
+290.049,126.0,B cells,plate_0,D10,Masitinib
+313.5595,57.0,B cells,plate_4,D10,Masitinib
+287.7965,68.0,B cells,plate_5,D10,Masitinib
+289.5015,54.0,B cells,plate_1,E10,Methotrexate
+304.3965,118.0,B cells,plate_2,E10,Methotrexate
+289.472,68.0,B cells,plate_3,E10,Methotrexate
+289.232,126.0,B cells,plate_0,E7,Midostaurin
+313.701,57.0,B cells,plate_4,E7,Midostaurin
+285.7965,68.0,B cells,plate_5,E7,Midostaurin
+296.4095,126.0,B cells,plate_0,G12,Mometasone Furoate
+309.1305,57.0,B cells,plate_4,G12,Mometasone Furoate
+291.74,68.0,B cells,plate_5,G12,Mometasone Furoate
+316.7105,126.0,B cells,plate_0,H6,Mubritinib (TAK 165)
+311.8875,65.0,B cells,plate_4,H6,Mubritinib (TAK 165)
+321.293,73.0,B cells,plate_5,H6,Mubritinib (TAK 165)
+282.95,54.0,B cells,plate_1,D9,Navitoclax
+290.9705,118.0,B cells,plate_2,D9,Navitoclax
+308.3335,68.0,B cells,plate_3,D9,Navitoclax
+292.2925,126.0,B cells,plate_0,D6,Nefazodone
+304.335,57.0,B cells,plate_4,D6,Nefazodone
+290.619,68.0,B cells,plate_5,D6,Nefazodone
+288.0525,126.0,B cells,plate_0,B6,Nilotinib
+311.607,57.0,B cells,plate_4,B6,Nilotinib
+289.8295,68.0,B cells,plate_5,B6,Nilotinib
+304.081,123.0,B cells,plate_0,B8,OSI-930
+308.8695,57.0,B cells,plate_4,B8,OSI-930
+299.6985,67.0,B cells,plate_5,B8,OSI-930
+231.3,32.0,B cells,plate_1,H4,Oprozomib (ONX 0912)
+298.9735,37.0,B cells,plate_3,H4,Oprozomib (ONX 0912)
+293.487,126.0,B cells,plate_0,F11,Oxybenzone
+308.165,57.0,B cells,plate_4,F11,Oxybenzone
+286.8475,68.0,B cells,plate_5,F11,Oxybenzone
+294.612,54.0,B cells,plate_1,H9,PD-0325901
+290.282,118.0,B cells,plate_2,H9,PD-0325901
+298.1475,68.0,B cells,plate_3,H9,PD-0325901
+305.9495,126.0,B cells,plate_0,G7,PF-03814735
+296.6855,57.0,B cells,plate_4,G7,PF-03814735
+291.913,68.0,B cells,plate_5,G7,PF-03814735
+296.6555,54.0,B cells,plate_1,F5,PF-04691502
+311.0645,118.0,B cells,plate_2,F5,PF-04691502
+295.2415,68.0,B cells,plate_3,F5,PF-04691502
+282.9515,126.0,B cells,plate_0,C7,PRT-062607
+311.339,57.0,B cells,plate_4,C7,PRT-062607
+286.1275,68.0,B cells,plate_5,C7,PRT-062607
+300.6525,54.0,B cells,plate_1,F6,Perhexiline
+299.7825,118.0,B cells,plate_2,F6,Perhexiline
+289.8295,68.0,B cells,plate_3,F6,Perhexiline
+299.3175,54.0,B cells,plate_1,C6,Phenylbutazone
+292.061,118.0,B cells,plate_2,C6,Phenylbutazone
+309.1005,68.0,B cells,plate_3,C6,Phenylbutazone
+287.6455,126.0,B cells,plate_0,C5,Pitavastatin Calcium
+294.6435,57.0,B cells,plate_4,C5,Pitavastatin Calcium
+283.4315,68.0,B cells,plate_5,C5,Pitavastatin Calcium
+292.4405,54.0,B cells,plate_1,D6,Pomalidomide
+288.0295,118.0,B cells,plate_2,D6,Pomalidomide
+285.238,68.0,B cells,plate_3,D6,Pomalidomide
+295.2805,126.0,B cells,plate_0,G9,Prednisolone
+310.593,57.0,B cells,plate_4,G9,Prednisolone
+288.3165,68.0,B cells,plate_5,G9,Prednisolone
+337.92,69.0,B cells,plate_1,D11,Proscillaridin A;Proscillaridin-A
+257.343,122.0,B cells,plate_2,D11,Proscillaridin A;Proscillaridin-A
+291.008,86.0,B cells,plate_3,D11,Proscillaridin A;Proscillaridin-A
+287.174,54.0,B cells,plate_1,B6,Protriptyline
+298.7125,118.0,B cells,plate_2,B6,Protriptyline
+298.413,68.0,B cells,plate_3,B6,Protriptyline
+304.5565,54.0,B cells,plate_1,H7,Quizartinib
+294.3945,118.0,B cells,plate_2,H7,Quizartinib
+307.674,68.0,B cells,plate_3,H7,Quizartinib
+251.134,92.0,B cells,plate_0,H4,RG7090
+258.896,30.0,B cells,plate_4,H4,RG7090
+239.171,36.0,B cells,plate_5,H4,RG7090
+290.9505,121.0,B cells,plate_0,C11,RG7112
+307.1325,55.0,B cells,plate_4,C11,RG7112
+282.778,67.0,B cells,plate_5,C11,RG7112
+296.66,54.0,B cells,plate_1,H8,RN-486
+283.3735,118.0,B cells,plate_2,H8,RN-486
+288.4815,68.0,B cells,plate_3,H8,RN-486
+296.973,54.0,B cells,plate_1,F8,RVX-208
+306.154,118.0,B cells,plate_2,F8,RVX-208
+292.5825,68.0,B cells,plate_3,F8,RVX-208
+295.7785,54.0,B cells,plate_1,C12,Raloxifene
+295.667,118.0,B cells,plate_2,C12,Raloxifene
+290.3065,68.0,B cells,plate_3,C12,Raloxifene
+293.161,126.0,B cells,plate_0,B11,Resminostat
+307.395,57.0,B cells,plate_4,B11,Resminostat
+295.971,68.0,B cells,plate_5,B11,Resminostat
+290.258,126.0,B cells,plate_0,E11,Ricolinostat
+304.2005,56.0,B cells,plate_4,E11,Ricolinostat
+288.077,66.0,B cells,plate_5,E11,Ricolinostat
+289.2395,126.0,B cells,plate_0,A4,Riociguat
+301.7465,57.0,B cells,plate_4,A4,Riociguat
+299.9875,68.0,B cells,plate_5,A4,Riociguat
+286.082,54.0,B cells,plate_1,D5,Ruxolitinib
+288.321,118.0,B cells,plate_2,D5,Ruxolitinib
+306.623,68.0,B cells,plate_3,D5,Ruxolitinib
+286.2205,126.0,B cells,plate_0,H8,SB525334
+309.8335,57.0,B cells,plate_4,H8,SB525334
+292.193,68.0,B cells,plate_5,H8,SB525334
+300.094,126.0,B cells,plate_0,F5,SCH-58261
+305.7505,57.0,B cells,plate_4,F5,SCH-58261
+285.252,68.0,B cells,plate_5,F5,SCH-58261
+298.051,126.0,B cells,plate_0,D5,SLx-2119
+316.7885,57.0,B cells,plate_4,D5,SLx-2119
+284.8295,68.0,B cells,plate_5,D5,SLx-2119
+292.1275,126.0,B cells,plate_0,D7,STK219801
+312.919,57.0,B cells,plate_4,D7,STK219801
+287.9705,68.0,B cells,plate_5,D7,STK219801
+295.236,126.0,B cells,plate_0,C10,Saracatinib
+317.3225,57.0,B cells,plate_4,C10,Saracatinib
+288.6305,68.0,B cells,plate_5,C10,Saracatinib
+299.1515,54.0,B cells,plate_1,E8,Scriptaid
+307.5205,118.0,B cells,plate_2,E8,Scriptaid
+300.105,68.0,B cells,plate_3,E8,Scriptaid
+282.5675,126.0,B cells,plate_0,H11,Selumetinib
+309.563,57.0,B cells,plate_4,H11,Selumetinib
+284.933,68.0,B cells,plate_5,H11,Selumetinib
+289.3535,54.0,B cells,plate_1,E5,Sgc-cbp30
+292.2515,118.0,B cells,plate_2,E5,Sgc-cbp30
+305.7555,68.0,B cells,plate_3,E5,Sgc-cbp30
+296.3395,54.0,B cells,plate_1,A7,Sunitinib
+309.2595,118.0,B cells,plate_2,A7,Sunitinib
+301.2595,68.0,B cells,plate_3,A7,Sunitinib
+288.5815,126.0,B cells,plate_0,C4,TGX 221
+291.619,57.0,B cells,plate_4,C4,TGX 221
+290.36,68.0,B cells,plate_5,C4,TGX 221
+299.298,54.0,B cells,plate_1,A10,TIE2 Kinase Inhibitor
+301.572,118.0,B cells,plate_2,A10,TIE2 Kinase Inhibitor
+292.5465,68.0,B cells,plate_3,A10,TIE2 Kinase Inhibitor
+296.564,54.0,B cells,plate_1,D10,TL_HRAS26
+296.779,118.0,B cells,plate_2,D10,TL_HRAS26
+300.2335,68.0,B cells,plate_3,D10,TL_HRAS26
+290.3875,126.0,B cells,plate_0,D8,TPCA-1
+312.6095,57.0,B cells,plate_4,D8,TPCA-1
+292.017,68.0,B cells,plate_5,D8,TPCA-1
+291.374,126.0,B cells,plate_0,B5,TR-14035
+308.766,58.0,B cells,plate_4,B5,TR-14035
+288.1475,68.0,B cells,plate_5,B5,TR-14035
+283.5785,126.0,B cells,plate_0,H10,Tacalcitol
+308.6485,57.0,B cells,plate_4,H10,Tacalcitol
+294.38,68.0,B cells,plate_5,H10,Tacalcitol
+294.001,54.0,B cells,plate_1,A9,Tamatinib
+289.6355,118.0,B cells,plate_2,A9,Tamatinib
+291.64,68.0,B cells,plate_3,A9,Tamatinib
+293.675,126.0,B cells,plate_0,G4,Tipifarnib
+300.029,57.0,B cells,plate_4,G4,Tipifarnib
+289.9305,68.0,B cells,plate_5,G4,Tipifarnib
+295.715,126.0,B cells,plate_0,F8,Tivantinib
+313.9545,57.0,B cells,plate_4,F8,Tivantinib
+290.093,68.0,B cells,plate_5,F8,Tivantinib
+295.3885,54.0,B cells,plate_1,A8,Tivozanib
+301.772,118.0,B cells,plate_2,A8,Tivozanib
+303.818,68.0,B cells,plate_3,A8,Tivozanib
+290.8175,54.0,B cells,plate_1,C4,Topotecan
+294.691,118.0,B cells,plate_2,C4,Topotecan
+305.253,68.0,B cells,plate_3,C4,Topotecan
+289.4475,126.0,B cells,plate_0,F9,Tosedostat
+312.416,57.0,B cells,plate_4,F9,Tosedostat
+282.7395,68.0,B cells,plate_5,F9,Tosedostat
+286.9055,54.0,B cells,plate_1,E12,Trametinib
+296.1425,118.0,B cells,plate_2,E12,Trametinib
+272.9285,68.0,B cells,plate_3,E12,Trametinib
+309.8475,9.0,B cells,plate_1,F7,UNII-BXU45ZH6LI
+317.533,48.0,B cells,plate_2,F7,UNII-BXU45ZH6LI
+307.285,11.0,B cells,plate_3,F7,UNII-BXU45ZH6LI
+288.7495,126.0,B cells,plate_0,F12,Vandetanib
+318.1105,57.0,B cells,plate_4,F12,Vandetanib
+295.83,68.0,B cells,plate_5,F12,Vandetanib
+296.2355,126.0,B cells,plate_0,H7,Vanoxerine
+312.8355,57.0,B cells,plate_4,H7,Vanoxerine
+291.63,68.0,B cells,plate_5,H7,Vanoxerine
+286.0625,54.0,B cells,plate_1,F11,Vardenafil
+291.879,118.0,B cells,plate_2,F11,Vardenafil
+292.0645,68.0,B cells,plate_3,F11,Vardenafil
+291.068,54.0,B cells,plate_1,D12,Vorinostat
+283.424,118.0,B cells,plate_2,D12,Vorinostat
+299.3445,68.0,B cells,plate_3,D12,Vorinostat
+299.76,126.0,B cells,plate_0,E5,YK 4-279
+322.122,57.0,B cells,plate_4,E5,YK 4-279
+288.869,68.0,B cells,plate_5,E5,YK 4-279
+293.569,56.0,Myeloid cells,plate_1,B4,5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine
+284.3645,71.0,Myeloid cells,plate_2,B4,5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine
+291.0345,63.0,Myeloid cells,plate_3,B4,5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine
+282.307,75.0,Myeloid cells,plate_0,G11,ABT-199 (GDC-0199)
+299.6985,59.0,Myeloid cells,plate_4,G11,ABT-199 (GDC-0199)
+286.6725,55.0,Myeloid cells,plate_5,G11,ABT-199 (GDC-0199)
+284.9565,75.0,Myeloid cells,plate_0,C6,ABT737
+310.034,59.0,Myeloid cells,plate_4,C6,ABT737
+281.606,57.0,Myeloid cells,plate_5,C6,ABT737
+287.421,56.0,Myeloid cells,plate_1,E4,AMD-070 (hydrochloride)
+289.1555,71.0,Myeloid cells,plate_2,E4,AMD-070 (hydrochloride)
+295.7355,63.0,Myeloid cells,plate_3,E4,AMD-070 (hydrochloride)
+292.745,75.0,Myeloid cells,plate_0,B7,AT 7867
+307.0485,59.0,Myeloid cells,plate_4,B7,AT 7867
+282.8235,58.0,Myeloid cells,plate_5,B7,AT 7867
+294.345,56.0,Myeloid cells,plate_1,F4,AT13387
+292.1225,71.0,Myeloid cells,plate_2,F4,AT13387
+302.9755,63.0,Myeloid cells,plate_3,F4,AT13387
+287.681,56.0,Myeloid cells,plate_1,D8,AVL-292
+285.359,71.0,Myeloid cells,plate_2,D8,AVL-292
+293.583,63.0,Myeloid cells,plate_3,D8,AVL-292
+278.7845,75.0,Myeloid cells,plate_0,C8,AZ628
+306.293,59.0,Myeloid cells,plate_4,C8,AZ628
+283.196,58.0,Myeloid cells,plate_5,C8,AZ628
+283.4405,108.0,Myeloid cells,plate_0,C9,AZD-8330
+308.7625,105.0,Myeloid cells,plate_4,C9,AZD-8330
+293.5545,98.0,Myeloid cells,plate_5,C9,AZD-8330
+289.767,75.0,Myeloid cells,plate_0,A8,AZD3514
+308.544,59.0,Myeloid cells,plate_4,A8,AZD3514
+288.4615,56.0,Myeloid cells,plate_5,A8,AZD3514
+280.353,75.0,Myeloid cells,plate_0,G8,AZD4547
+300.4375,59.0,Myeloid cells,plate_4,G8,AZD4547
+287.6365,58.0,Myeloid cells,plate_5,G8,AZD4547
+301.0565,56.0,Myeloid cells,plate_1,H5,Alogliptin
+288.734,71.0,Myeloid cells,plate_2,H5,Alogliptin
+292.412,63.0,Myeloid cells,plate_3,H5,Alogliptin
+315.7275,20.0,Myeloid cells,plate_1,G10,Alvocidib
+383.0,22.0,Myeloid cells,plate_3,G10,Alvocidib
+289.2605,56.0,Myeloid cells,plate_1,G8,Amiodarone
+287.4315,71.0,Myeloid cells,plate_2,G8,Amiodarone
+288.907,63.0,Myeloid cells,plate_3,G8,Amiodarone
+291.3045,56.0,Myeloid cells,plate_1,A4,Atorvastatin
+290.786,71.0,Myeloid cells,plate_2,A4,Atorvastatin
+294.49,63.0,Myeloid cells,plate_3,A4,Atorvastatin
+281.2145,75.0,Myeloid cells,plate_0,B4,Azacitidine
+306.747,59.0,Myeloid cells,plate_4,B4,Azacitidine
+283.6345,58.0,Myeloid cells,plate_5,B4,Azacitidine
+290.124,56.0,Myeloid cells,plate_1,E9,BAY 61-3606
+295.011,71.0,Myeloid cells,plate_2,E9,BAY 61-3606
+271.7405,63.0,Myeloid cells,plate_3,E9,BAY 61-3606
+299.8415,56.0,Myeloid cells,plate_1,C5,BAY 87-2243
+292.201,71.0,Myeloid cells,plate_2,C5,BAY 87-2243
+282.195,63.0,Myeloid cells,plate_3,C5,BAY 87-2243
+291.086,75.0,Myeloid cells,plate_0,A7,BI-D1870
+314.769,59.0,Myeloid cells,plate_4,A7,BI-D1870
+293.7435,54.0,Myeloid cells,plate_5,A7,BI-D1870
+289.7675,54.0,Myeloid cells,plate_1,D4,BMS-265246
+288.4345,65.0,Myeloid cells,plate_2,D4,BMS-265246
+295.528,58.0,Myeloid cells,plate_3,D4,BMS-265246
+280.855,56.0,Myeloid cells,plate_1,C10,BMS-387032
+306.378,71.0,Myeloid cells,plate_2,C10,BMS-387032
+288.795,63.0,Myeloid cells,plate_3,C10,BMS-387032
+294.47,56.0,Myeloid cells,plate_1,G6,BMS-536924
+289.591,71.0,Myeloid cells,plate_2,G6,BMS-536924
+297.6825,63.0,Myeloid cells,plate_3,G6,BMS-536924
+291.0625,56.0,Myeloid cells,plate_1,C8,BMS-777607
+287.6215,71.0,Myeloid cells,plate_2,C8,BMS-777607
+295.9135,63.0,Myeloid cells,plate_3,C8,BMS-777607
+294.4505,58.0,Myeloid cells,plate_0,G5,BX 912
+314.406,37.0,Myeloid cells,plate_4,G5,BX 912
+304.824,39.0,Myeloid cells,plate_5,G5,BX 912
+285.148,75.0,Myeloid cells,plate_0,E12,Bosutinib
+306.4475,59.0,Myeloid cells,plate_4,E12,Bosutinib
+286.1835,58.0,Myeloid cells,plate_5,E12,Bosutinib
+285.364,75.0,Myeloid cells,plate_0,E6,Buspirone
+313.3245,59.0,Myeloid cells,plate_4,E6,Buspirone
+284.4715,58.0,Myeloid cells,plate_5,E6,Buspirone
+283.5035,75.0,Myeloid cells,plate_0,B10,CC-401
+301.703,59.0,Myeloid cells,plate_4,B10,CC-401
+295.656,58.0,Myeloid cells,plate_5,B10,CC-401
+297.058,94.0,Myeloid cells,plate_0,D11,CEP-18770 (Delanzomib)
+303.8665,83.0,Myeloid cells,plate_4,D11,CEP-18770 (Delanzomib)
+282.5975,155.0,Myeloid cells,plate_5,D11,CEP-18770 (Delanzomib)
+289.2195,75.0,Myeloid cells,plate_0,E8,CEP-37440
+309.491,60.0,Myeloid cells,plate_4,E8,CEP-37440
+287.3575,60.0,Myeloid cells,plate_5,E8,CEP-37440
+297.8095,125.0,Myeloid cells,plate_0,D4,CGM-097
+307.8925,55.0,Myeloid cells,plate_4,D4,CGM-097
+288.116,52.0,Myeloid cells,plate_5,D4,CGM-097
+278.168,56.0,Myeloid cells,plate_1,B10,CGP 60474
+291.4325,71.0,Myeloid cells,plate_2,B10,CGP 60474
+365.0785,63.0,Myeloid cells,plate_3,B10,CGP 60474
+282.0035,75.0,Myeloid cells,plate_0,A12,Cabozantinib
+308.5505,59.0,Myeloid cells,plate_4,A12,Cabozantinib
+288.5315,58.0,Myeloid cells,plate_5,A12,Cabozantinib
+291.4385,56.0,Myeloid cells,plate_1,H11,Canertinib
+289.5945,71.0,Myeloid cells,plate_2,H11,Canertinib
+295.3495,63.0,Myeloid cells,plate_3,H11,Canertinib
+284.568,75.0,Myeloid cells,plate_0,D12,Ceritinib
+310.722,60.0,Myeloid cells,plate_4,D12,Ceritinib
+285.9455,58.0,Myeloid cells,plate_5,D12,Ceritinib
+292.72,56.0,Myeloid cells,plate_1,E7,Chlorpheniramine
+288.8355,71.0,Myeloid cells,plate_2,E7,Chlorpheniramine
+295.354,63.0,Myeloid cells,plate_3,E7,Chlorpheniramine
+289.409,75.0,Myeloid cells,plate_0,E4,Clemastine
+312.047,59.0,Myeloid cells,plate_4,E4,Clemastine
+284.1415,58.0,Myeloid cells,plate_5,E4,Clemastine
+282.163,56.0,Myeloid cells,plate_1,A6,Clomipramine
+292.4255,71.0,Myeloid cells,plate_2,A6,Clomipramine
+296.8555,63.0,Myeloid cells,plate_3,A6,Clomipramine
+285.917,68.0,Myeloid cells,plate_0,H12,Clotrimazole
+296.8595,49.0,Myeloid cells,plate_4,H12,Clotrimazole
+291.14,50.0,Myeloid cells,plate_5,H12,Clotrimazole
+366.2555,40.0,Myeloid cells,plate_0,G10,Colchicine
+386.8135,21.0,Myeloid cells,plate_4,G10,Colchicine
+399.9415,25.0,Myeloid cells,plate_5,G10,Colchicine
+291.2845,75.0,Myeloid cells,plate_0,F6,Colforsin
+313.094,59.0,Myeloid cells,plate_4,F6,Colforsin
+286.3205,57.0,Myeloid cells,plate_5,F6,Colforsin
+297.222,56.0,Myeloid cells,plate_1,F12,Dasatinib
+284.9685,71.0,Myeloid cells,plate_2,F12,Dasatinib
+291.138,63.0,Myeloid cells,plate_3,F12,Dasatinib
+299.342,75.0,Myeloid cells,plate_0,A10,Decitabine
+306.205,59.0,Myeloid cells,plate_4,A10,Decitabine
+296.805,58.0,Myeloid cells,plate_5,A10,Decitabine
+284.652,75.0,Myeloid cells,plate_0,A6,Defactinib
+306.818,59.0,Myeloid cells,plate_4,A6,Defactinib
+284.8075,58.0,Myeloid cells,plate_5,A6,Defactinib
+292.507,56.0,Myeloid cells,plate_1,G4,Desloratadine
+287.023,71.0,Myeloid cells,plate_2,G4,Desloratadine
+287.1535,63.0,Myeloid cells,plate_3,G4,Desloratadine
+289.983,56.0,Myeloid cells,plate_1,G11,Disulfiram
+299.8235,71.0,Myeloid cells,plate_2,G11,Disulfiram
+289.9555,63.0,Myeloid cells,plate_3,G11,Disulfiram
+295.2655,56.0,Myeloid cells,plate_1,D7,Dovitinib
+288.518,71.0,Myeloid cells,plate_2,D7,Dovitinib
+291.4355,63.0,Myeloid cells,plate_3,D7,Dovitinib
+283.294,75.0,Myeloid cells,plate_0,G6,Doxorubicin
+299.544,59.0,Myeloid cells,plate_4,G6,Doxorubicin
+282.661,58.0,Myeloid cells,plate_5,G6,Doxorubicin
+295.268,56.0,Myeloid cells,plate_1,E6,FK 866
+293.8085,71.0,Myeloid cells,plate_2,E6,FK 866
+289.7645,63.0,Myeloid cells,plate_3,E6,FK 866
+301.1495,56.0,Myeloid cells,plate_1,G12,Flutamide
+307.356,71.0,Myeloid cells,plate_2,G12,Flutamide
+296.184,63.0,Myeloid cells,plate_3,G12,Flutamide
+291.01,75.0,Myeloid cells,plate_0,H5,GLPG0634
+307.358,59.0,Myeloid cells,plate_4,H5,GLPG0634
+283.134,58.0,Myeloid cells,plate_5,H5,GLPG0634
+282.727,75.0,Myeloid cells,plate_0,B9,GO-6976
+307.8255,59.0,Myeloid cells,plate_4,B9,GO-6976
+292.456,58.0,Myeloid cells,plate_5,B9,GO-6976
+284.0695,75.0,Myeloid cells,plate_0,E10,GSK-1070916
+308.6925,59.0,Myeloid cells,plate_4,E10,GSK-1070916
+288.908,58.0,Myeloid cells,plate_5,E10,GSK-1070916
+295.7045,75.0,Myeloid cells,plate_0,E9,GSK256066
+300.26,59.0,Myeloid cells,plate_4,E9,GSK256066
+288.45,59.0,Myeloid cells,plate_5,E9,GSK256066
+299.187,56.0,Myeloid cells,plate_1,B9,GW843682X
+296.779,71.0,Myeloid cells,plate_2,B9,GW843682X
+300.305,63.0,Myeloid cells,plate_3,B9,GW843682X
+284.303,73.0,Myeloid cells,plate_1,A5,Ganetespib (STA-9090)
+282.145,84.0,Myeloid cells,plate_2,A5,Ganetespib (STA-9090)
+286.4,80.0,Myeloid cells,plate_3,A5,Ganetespib (STA-9090)
+282.9595,75.0,Myeloid cells,plate_0,A9,HMN-214
+308.235,59.0,Myeloid cells,plate_4,A9,HMN-214
+285.219,54.0,Myeloid cells,plate_5,A9,HMN-214
+276.7815,75.0,Myeloid cells,plate_0,H9,HYDROXYUREA
+307.6575,59.0,Myeloid cells,plate_4,H9,HYDROXYUREA
+286.084,58.0,Myeloid cells,plate_5,H9,HYDROXYUREA
+286.289,56.0,Myeloid cells,plate_1,B7,I-BET151
+298.6325,72.0,Myeloid cells,plate_2,B7,I-BET151
+290.139,63.0,Myeloid cells,plate_3,B7,I-BET151
+294.2555,56.0,Myeloid cells,plate_1,G7,IKK Inhibitor VII
+291.753,71.0,Myeloid cells,plate_2,G7,IKK Inhibitor VII
+294.052,63.0,Myeloid cells,plate_3,G7,IKK Inhibitor VII
+287.6795,56.0,Myeloid cells,plate_1,H10,IMD-0354
+282.522,71.0,Myeloid cells,plate_2,H10,IMD-0354
+292.9625,63.0,Myeloid cells,plate_3,H10,IMD-0354
+300.585,73.0,Myeloid cells,plate_1,C11,IN1451
+307.996,102.0,Myeloid cells,plate_2,C11,IN1451
+287.0515,59.0,Myeloid cells,plate_3,C11,IN1451
+284.6155,75.0,Myeloid cells,plate_0,F4,Imatinib
+306.2065,59.0,Myeloid cells,plate_4,F4,Imatinib
+295.0645,57.0,Myeloid cells,plate_5,F4,Imatinib
+286.571,56.0,Myeloid cells,plate_1,G9,Isoniazid
+290.9345,71.0,Myeloid cells,plate_2,G9,Isoniazid
+291.6765,63.0,Myeloid cells,plate_3,G9,Isoniazid
+298.4535,56.0,Myeloid cells,plate_1,B11,Ixabepilone
+300.242,71.0,Myeloid cells,plate_2,B11,Ixabepilone
+290.0515,63.0,Myeloid cells,plate_3,B11,Ixabepilone
+296.0585,56.0,Myeloid cells,plate_1,C7,K-02288
+289.877,71.0,Myeloid cells,plate_2,C7,K-02288
+297.3685,63.0,Myeloid cells,plate_3,C7,K-02288
+294.8365,56.0,Myeloid cells,plate_1,F9,Ketoconazole
+289.8265,71.0,Myeloid cells,plate_2,F9,Ketoconazole
+292.6475,63.0,Myeloid cells,plate_3,F9,Ketoconazole
+290.916,62.0,Myeloid cells,plate_1,F10,LY2090314
+288.535,75.0,Myeloid cells,plate_2,F10,LY2090314
+290.0705,68.0,Myeloid cells,plate_3,F10,LY2090314
+284.169,75.0,Myeloid cells,plate_0,C12,Lamivudine
+315.5995,59.0,Myeloid cells,plate_4,C12,Lamivudine
+287.6895,58.0,Myeloid cells,plate_5,C12,Lamivudine
+294.6775,56.0,Myeloid cells,plate_1,A12,Lapatinib
+290.3685,71.0,Myeloid cells,plate_2,A12,Lapatinib
+295.673,63.0,Myeloid cells,plate_3,A12,Lapatinib
+289.349,75.0,Myeloid cells,plate_0,D9,MGCD-265
+304.9675,59.0,Myeloid cells,plate_4,D9,MGCD-265
+279.8915,58.0,Myeloid cells,plate_5,D9,MGCD-265
+293.3135,92.0,Myeloid cells,plate_1,A11,MK-5108
+291.5575,97.0,Myeloid cells,plate_2,A11,MK-5108
+299.583,99.0,Myeloid cells,plate_3,A11,MK-5108
+282.375,75.0,Myeloid cells,plate_0,D10,Masitinib
+310.2465,59.0,Myeloid cells,plate_4,D10,Masitinib
+283.5375,58.0,Myeloid cells,plate_5,D10,Masitinib
+290.8865,56.0,Myeloid cells,plate_1,E10,Methotrexate
+295.6795,71.0,Myeloid cells,plate_2,E10,Methotrexate
+286.0815,63.0,Myeloid cells,plate_3,E10,Methotrexate
+282.4695,75.0,Myeloid cells,plate_0,E7,Midostaurin
+310.1055,59.0,Myeloid cells,plate_4,E7,Midostaurin
+282.7775,58.0,Myeloid cells,plate_5,E7,Midostaurin
+290.8965,75.0,Myeloid cells,plate_0,G12,Mometasone Furoate
+307.153,59.0,Myeloid cells,plate_4,G12,Mometasone Furoate
+288.153,58.0,Myeloid cells,plate_5,G12,Mometasone Furoate
+307.041,100.0,Myeloid cells,plate_0,H6,Mubritinib (TAK 165)
+303.075,94.0,Myeloid cells,plate_4,H6,Mubritinib (TAK 165)
+312.6785,86.0,Myeloid cells,plate_5,H6,Mubritinib (TAK 165)
+285.8415,56.0,Myeloid cells,plate_1,D9,Navitoclax
+287.075,71.0,Myeloid cells,plate_2,D9,Navitoclax
+300.0565,63.0,Myeloid cells,plate_3,D9,Navitoclax
+285.4475,75.0,Myeloid cells,plate_0,D6,Nefazodone
+303.4555,59.0,Myeloid cells,plate_4,D6,Nefazodone
+287.1875,57.0,Myeloid cells,plate_5,D6,Nefazodone
+280.7645,75.0,Myeloid cells,plate_0,B6,Nilotinib
+308.8995,59.0,Myeloid cells,plate_4,B6,Nilotinib
+285.414,58.0,Myeloid cells,plate_5,B6,Nilotinib
+311.5715,57.0,Myeloid cells,plate_0,B8,OSI-930
+318.2285,34.0,Myeloid cells,plate_4,B8,OSI-930
+318.4055,35.0,Myeloid cells,plate_5,B8,OSI-930
+215.4545,21.0,Myeloid cells,plate_1,H4,Oprozomib (ONX 0912)
+267.8795,26.0,Myeloid cells,plate_3,H4,Oprozomib (ONX 0912)
+286.61,75.0,Myeloid cells,plate_0,F11,Oxybenzone
+306.3725,59.0,Myeloid cells,plate_4,F11,Oxybenzone
+284.0475,58.0,Myeloid cells,plate_5,F11,Oxybenzone
+294.7385,56.0,Myeloid cells,plate_1,H9,PD-0325901
+286.2015,71.0,Myeloid cells,plate_2,H9,PD-0325901
+292.1075,63.0,Myeloid cells,plate_3,H9,PD-0325901
+297.309,75.0,Myeloid cells,plate_0,G7,PF-03814735
+296.582,59.0,Myeloid cells,plate_4,G7,PF-03814735
+288.914,58.0,Myeloid cells,plate_5,G7,PF-03814735
+296.404,56.0,Myeloid cells,plate_1,F5,PF-04691502
+303.6025,71.0,Myeloid cells,plate_2,F5,PF-04691502
+290.54,63.0,Myeloid cells,plate_3,F5,PF-04691502
+277.1785,75.0,Myeloid cells,plate_0,C7,PRT-062607
+307.888,59.0,Myeloid cells,plate_4,C7,PRT-062607
+283.538,59.0,Myeloid cells,plate_5,C7,PRT-062607
+299.4445,56.0,Myeloid cells,plate_1,F6,Perhexiline
+293.98,71.0,Myeloid cells,plate_2,F6,Perhexiline
+286.854,63.0,Myeloid cells,plate_3,F6,Perhexiline
+297.485,56.0,Myeloid cells,plate_1,C6,Phenylbutazone
+288.93,71.0,Myeloid cells,plate_2,C6,Phenylbutazone
+300.6555,63.0,Myeloid cells,plate_3,C6,Phenylbutazone
+282.649,75.0,Myeloid cells,plate_0,C5,Pitavastatin Calcium
+295.4375,59.0,Myeloid cells,plate_4,C5,Pitavastatin Calcium
+280.695,58.0,Myeloid cells,plate_5,C5,Pitavastatin Calcium
+292.2385,56.0,Myeloid cells,plate_1,D6,Pomalidomide
+285.4235,71.0,Myeloid cells,plate_2,D6,Pomalidomide
+282.3865,63.0,Myeloid cells,plate_3,D6,Pomalidomide
+287.303,75.0,Myeloid cells,plate_0,G9,Prednisolone
+308.459,59.0,Myeloid cells,plate_4,G9,Prednisolone
+285.441,58.0,Myeloid cells,plate_5,G9,Prednisolone
+329.928,72.0,Myeloid cells,plate_1,D11,Proscillaridin A;Proscillaridin-A
+259.514,84.0,Myeloid cells,plate_2,D11,Proscillaridin A;Proscillaridin-A
+288.425,86.0,Myeloid cells,plate_3,D11,Proscillaridin A;Proscillaridin-A
+288.2355,56.0,Myeloid cells,plate_1,B6,Protriptyline
+291.847,71.0,Myeloid cells,plate_2,B6,Protriptyline
+292.545,63.0,Myeloid cells,plate_3,B6,Protriptyline
+301.242,56.0,Myeloid cells,plate_1,H7,Quizartinib
+289.8745,71.0,Myeloid cells,plate_2,H7,Quizartinib
+300.0395,63.0,Myeloid cells,plate_3,H7,Quizartinib
+230.7075,42.0,Myeloid cells,plate_0,H4,RG7090
+241.981,22.0,Myeloid cells,plate_4,H4,RG7090
+219.0845,21.0,Myeloid cells,plate_5,H4,RG7090
+285.617,70.0,Myeloid cells,plate_0,C11,RG7112
+305.5285,56.0,Myeloid cells,plate_4,C11,RG7112
+281.233,55.0,Myeloid cells,plate_5,C11,RG7112
+295.473,56.0,Myeloid cells,plate_1,H8,RN-486
+283.132,71.0,Myeloid cells,plate_2,H8,RN-486
+285.4925,63.0,Myeloid cells,plate_3,H8,RN-486
+295.7545,56.0,Myeloid cells,plate_1,F8,RVX-208
+297.2645,71.0,Myeloid cells,plate_2,F8,RVX-208
+288.2795,63.0,Myeloid cells,plate_3,F8,RVX-208
+295.159,56.0,Myeloid cells,plate_1,C12,Raloxifene
+290.2795,71.0,Myeloid cells,plate_2,C12,Raloxifene
+286.0315,63.0,Myeloid cells,plate_3,C12,Raloxifene
+285.252,75.0,Myeloid cells,plate_0,B11,Resminostat
+306.294,59.0,Myeloid cells,plate_4,B11,Resminostat
+290.575,58.0,Myeloid cells,plate_5,B11,Resminostat
+282.7865,86.0,Myeloid cells,plate_0,E11,Ricolinostat
+302.4215,74.0,Myeloid cells,plate_4,E11,Ricolinostat
+284.395,72.0,Myeloid cells,plate_5,E11,Ricolinostat
+281.516,75.0,Myeloid cells,plate_0,A4,Riociguat
+301.0615,59.0,Myeloid cells,plate_4,A4,Riociguat
+293.5965,58.0,Myeloid cells,plate_5,A4,Riociguat
+288.3095,56.0,Myeloid cells,plate_1,D5,Ruxolitinib
+286.054,71.0,Myeloid cells,plate_2,D5,Ruxolitinib
+299.2085,63.0,Myeloid cells,plate_3,D5,Ruxolitinib
+280.969,75.0,Myeloid cells,plate_0,H8,SB525334
+307.7345,59.0,Myeloid cells,plate_4,H8,SB525334
+287.613,54.0,Myeloid cells,plate_5,H8,SB525334
+291.9915,75.0,Myeloid cells,plate_0,F5,SCH-58261
+304.6455,59.0,Myeloid cells,plate_4,F5,SCH-58261
+283.1335,58.0,Myeloid cells,plate_5,F5,SCH-58261
+289.164,75.0,Myeloid cells,plate_0,D5,SLx-2119
+313.257,59.0,Myeloid cells,plate_4,D5,SLx-2119
+281.711,58.0,Myeloid cells,plate_5,D5,SLx-2119
+283.7615,75.0,Myeloid cells,plate_0,D7,STK219801
+309.576,59.0,Myeloid cells,plate_4,D7,STK219801
+283.947,58.0,Myeloid cells,plate_5,D7,STK219801
+288.346,75.0,Myeloid cells,plate_0,C10,Saracatinib
+314.9145,59.0,Myeloid cells,plate_4,C10,Saracatinib
+285.2575,58.0,Myeloid cells,plate_5,C10,Saracatinib
+297.659,57.0,Myeloid cells,plate_1,E8,Scriptaid
+299.274,72.0,Myeloid cells,plate_2,E8,Scriptaid
+294.8005,65.0,Myeloid cells,plate_3,E8,Scriptaid
+276.9085,75.0,Myeloid cells,plate_0,H11,Selumetinib
+307.496,59.0,Myeloid cells,plate_4,H11,Selumetinib
+281.7125,58.0,Myeloid cells,plate_5,H11,Selumetinib
+290.3635,56.0,Myeloid cells,plate_1,E5,Sgc-cbp30
+288.5665,71.0,Myeloid cells,plate_2,E5,Sgc-cbp30
+297.9015,63.0,Myeloid cells,plate_3,E5,Sgc-cbp30
+295.9725,56.0,Myeloid cells,plate_1,A7,Sunitinib
+303.425,71.0,Myeloid cells,plate_2,A7,Sunitinib
+295.996,63.0,Myeloid cells,plate_3,A7,Sunitinib
+281.2795,75.0,Myeloid cells,plate_0,C4,TGX 221
+293.894,59.0,Myeloid cells,plate_4,C4,TGX 221
+286.3765,58.0,Myeloid cells,plate_5,C4,TGX 221
+298.341,56.0,Myeloid cells,plate_1,A10,TIE2 Kinase Inhibitor
+296.386,71.0,Myeloid cells,plate_2,A10,TIE2 Kinase Inhibitor
+289.212,63.0,Myeloid cells,plate_3,A10,TIE2 Kinase Inhibitor
+295.847,56.0,Myeloid cells,plate_1,D10,TL_HRAS26
+290.4875,71.0,Myeloid cells,plate_2,D10,TL_HRAS26
+292.9605,63.0,Myeloid cells,plate_3,D10,TL_HRAS26
+283.029,75.0,Myeloid cells,plate_0,D8,TPCA-1
+310.3215,59.0,Myeloid cells,plate_4,D8,TPCA-1
+286.875,58.0,Myeloid cells,plate_5,D8,TPCA-1
+278.918,77.0,Myeloid cells,plate_0,B5,TR-14035
+302.075,61.0,Myeloid cells,plate_4,B5,TR-14035
+279.1335,60.0,Myeloid cells,plate_5,B5,TR-14035
+279.4815,75.0,Myeloid cells,plate_0,H10,Tacalcitol
+306.296,59.0,Myeloid cells,plate_4,H10,Tacalcitol
+290.494,58.0,Myeloid cells,plate_5,H10,Tacalcitol
+293.6615,56.0,Myeloid cells,plate_1,A9,Tamatinib
+287.644,71.0,Myeloid cells,plate_2,A9,Tamatinib
+287.369,63.0,Myeloid cells,plate_3,A9,Tamatinib
+286.019,75.0,Myeloid cells,plate_0,G4,Tipifarnib
+299.4765,59.0,Myeloid cells,plate_4,G4,Tipifarnib
+287.107,58.0,Myeloid cells,plate_5,G4,Tipifarnib
+288.0535,75.0,Myeloid cells,plate_0,F8,Tivantinib
+311.466,59.0,Myeloid cells,plate_4,F8,Tivantinib
+285.4115,58.0,Myeloid cells,plate_5,F8,Tivantinib
+295.204,56.0,Myeloid cells,plate_1,A8,Tivozanib
+294.8545,71.0,Myeloid cells,plate_2,A8,Tivozanib
+296.5345,63.0,Myeloid cells,plate_3,A8,Tivozanib
+292.0735,56.0,Myeloid cells,plate_1,C4,Topotecan
+289.2175,71.0,Myeloid cells,plate_2,C4,Topotecan
+296.248,63.0,Myeloid cells,plate_3,C4,Topotecan
+283.931,75.0,Myeloid cells,plate_0,F9,Tosedostat
+309.4805,59.0,Myeloid cells,plate_4,F9,Tosedostat
+281.7095,58.0,Myeloid cells,plate_5,F9,Tosedostat
+288.102,56.0,Myeloid cells,plate_1,E12,Trametinib
+290.7955,71.0,Myeloid cells,plate_2,E12,Trametinib
+272.4585,63.0,Myeloid cells,plate_3,E12,Trametinib
+294.6105,7.0,Myeloid cells,plate_1,F7,UNII-BXU45ZH6LI
+295.805,8.0,Myeloid cells,plate_2,F7,UNII-BXU45ZH6LI
+292.9845,7.0,Myeloid cells,plate_3,F7,UNII-BXU45ZH6LI
+281.774,75.0,Myeloid cells,plate_0,F12,Vandetanib
+314.737,59.0,Myeloid cells,plate_4,F12,Vandetanib
+289.973,58.0,Myeloid cells,plate_5,F12,Vandetanib
+288.302,75.0,Myeloid cells,plate_0,H7,Vanoxerine
+309.407,59.0,Myeloid cells,plate_4,H7,Vanoxerine
+287.848,58.0,Myeloid cells,plate_5,H7,Vanoxerine
+288.6615,56.0,Myeloid cells,plate_1,F11,Vardenafil
+288.552,71.0,Myeloid cells,plate_2,F11,Vardenafil
+287.8975,63.0,Myeloid cells,plate_3,F11,Vardenafil
+292.205,57.0,Myeloid cells,plate_1,D12,Vorinostat
+281.244,72.0,Myeloid cells,plate_2,D12,Vorinostat
+292.2205,67.0,Myeloid cells,plate_3,D12,Vorinostat
+289.6255,75.0,Myeloid cells,plate_0,E5,YK 4-279
+319.649,59.0,Myeloid cells,plate_4,E5,YK 4-279
+285.1845,54.0,Myeloid cells,plate_5,E5,YK 4-279
